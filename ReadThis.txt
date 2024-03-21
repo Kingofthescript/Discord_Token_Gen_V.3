@@ -1,0 +1,11 @@
+This Generates Discord Nitro Tokens By using a document with millions and millions of random tokens stored in our own folders
+
+You may need to turn of Real time protection in windows security to get this to work sometimes
+
+
+takes up too 35 mins to generate a token thats working
+
+and once in a while if your lucky you get yearly discord nitro tokens 
+
+made for @bloodsellsv on discord 
+made by @donttalkshit. on discord
